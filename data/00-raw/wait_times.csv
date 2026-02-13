@@ -1,0 +1,721 @@
+Park,Name,Average_Wait
+Cedar Point,Corkscrew,14.0
+Cedar Point,Maverick,55.0
+Cedar Point,Siren’s Curse,77.0
+Cedar Point,Millennium Force,43.0
+Cedar Point,Rougarou,17.0
+Cedar Point,Gemini,18.0
+Cedar Point,Valravn,43.0
+Cedar Point,Wild Mouse,29.0
+Cedar Point,Magnum XL-200,16.0
+Cedar Point,Steel Vengeance,59.0
+Cedar Point,Woodstock Express,0.0
+Cedar Point,Cedar Creek Mine Ride,15.0
+Cedar Point,Top Thrill 2,54.0
+Cedar Point,GateKeeper,23.0
+Cedar Point,Raptor,31.0
+Cedar Point,Iron Dragon,19.0
+Cedar Point,Wilderness Run,0.0
+Cedar Point,Blue Streak,17.0
+Kings Island,Beast,33.0
+Kings Island,Woodstock Express,14.0
+Kings Island,Snoopy's Soap Box Racers,19.0
+Kings Island,Queen City Stunt Coaster,21.0
+Kings Island,Diamondback,30.0
+Kings Island,Mystic Timbers,28.0
+Kings Island,Woodstock’s Air Rail,17.0
+Kings Island,Orion,30.0
+Kings Island,Racer,8.0
+Kings Island,Banshee,23.0
+Kings Island,Bat,0.0
+Kings Island,Flight of Fear,48.0
+Kings Island,Great Pumpkin Coaster,0.0
+Kings Island,Invertigo,20.0
+Kings Island,Adventure Express,13.0
+Carowinds,Snoopy’s Racing Railway,21.0
+Carowinds,Wilderness Run,7.0
+Carowinds,Afterburn,18.0
+Carowinds,Flying Cobras,18.0
+Carowinds,Ricochet,21.0
+Carowinds,Carolina Cyclone,10.0
+Carowinds,Carolina Goldrusher,18.0
+Carowinds,Woodstock Express,12.0
+Carowinds,Hurler,12.0
+Carowinds,Thunder Striker,15.0
+Carowinds,Fury 325,23.0
+Carowinds,Copperhead Strike,22.0
+Carowinds,Kiddy Hawk,17.0
+Carowinds,Vortex,14.0
+Canada's Wonderland,Yukon Striker,35.0
+Canada's Wonderland,Snoopy's Racing Railway,40.0
+Canada's Wonderland,Silver Streak,19.0
+Canada's Wonderland,Flight Deck,13.0
+Canada's Wonderland,Ghoster Coaster,24.0
+Canada's Wonderland,Wonder Mountain's Guardian,37.0
+Canada's Wonderland,Bat,24.0
+Canada's Wonderland,Taxi Jam,15.0
+Canada's Wonderland,Dragon Fyre,8.0
+Canada's Wonderland,Vortex,29.0
+Canada's Wonderland,Thunder Run,23.0
+Canada's Wonderland,Leviathan,38.0
+Canada's Wonderland,AlpenFury,104.0
+Canada's Wonderland,Behemoth,29.0
+Canada's Wonderland,Backlot Stunt Coaster,30.0
+Canada's Wonderland,Mighty Canadian Minebuster,21.0
+Canada's Wonderland,Fly,27.0
+Canada's Wonderland,Wilde Beast,13.0
+Knott's Berry Farm,Coast Rider,29.0
+Knott's Berry Farm,HangTime,39.0
+Knott's Berry Farm,GhostRider,79.0
+Knott's Berry Farm,Sierra Sidewinder,36.0
+Knott's Berry Farm,Pony Express,31.0
+Knott's Berry Farm,Jaguar!,33.0
+Knott's Berry Farm,Snoopy’s Tenderpaw Twister Coaster,10.0
+Knott's Berry Farm,Silver Bullet,28.0
+Knott's Berry Farm,Xcelerator,44.0
+California's Great America,RailBlazer,37.0
+California's Great America,Woodstock Express,0.0
+California's Great America,Lucy's Crabbie Cabbies,17.0
+California's Great America,Flight Deck,25.0
+California's Great America,Patriot,14.0
+California's Great America,Gold Striker,29.0
+California's Great America,Grizzly,27.0
+California's Great America,Demon,20.0
+California's Great America,Psycho Mouse,34.0
+Kings Dominion,Apple Zapple,12.0
+Kings Dominion,Flight of Fear,25.0
+Kings Dominion,Dominator,14.0
+Kings Dominion,Racer 75,6.0
+Kings Dominion,Grizzly,7.0
+Kings Dominion,Backlot Stunt Coaster,12.0
+Kings Dominion,Great Pumpkin Coaster,0.0
+Kings Dominion,Pantherian,20.0
+Kings Dominion,Reptilian,15.0
+Kings Dominion,Twisted Timbers,21.0
+Kings Dominion,Tumbili,15.0
+Kings Dominion,Rapterra,27.0
+Kings Dominion,Woodstock Express,11.0
+Dorney Park,Steel Force,11.0
+Dorney Park,Possessed,8.0
+Dorney Park,Iron Menace,17.0
+Dorney Park,Thunderhawk,10.0
+Dorney Park,Woodstock Express,0.0
+Dorney Park,Hydra the Revenge,15.0
+Dorney Park,Talon,15.0
+Dorney Park,Wild Mouse,30.0
+Worlds of Fun,Spinning Dragons,38.0
+Worlds of Fun,Patriot,28.0
+Worlds of Fun,Mamba,24.0
+Worlds of Fun,Zambezi Zinger,30.0
+Worlds of Fun,Boomerang,16.0
+Worlds of Fun,Prowler,15.0
+Worlds of Fun,Cosmic Coaster,0.0
+Worlds of Fun,Timber Wolf,21.0
+Valleyfair,High Roller,18.0
+Valleyfair,Excalibur,6.0
+Valleyfair,Cosmic Coaster,0.0
+Valleyfair,Steel Venom,19.0
+Valleyfair,Renegade,18.0
+Valleyfair,Wild Thing,18.0
+Valleyfair,Corkscrew,13.0
+Valleyfair,Mad Mouse,27.0
+Michigan's Adventure,Zach's Zoomer,0.0
+Michigan's Adventure,Mad Mouse,35.0
+Michigan's Adventure,Wolverine Wildcat,26.0
+Michigan's Adventure,Corkscrew,0.0
+Michigan's Adventure,Shivering Timbers,27.0
+Michigan's Adventure,Thunderhawk,22.0
+Michigan's Adventure,Woodstock Express,0.0
+Six Flags Magic Mountain,Viper,11.0
+Six Flags Magic Mountain,Speedy Gonzales Hot Rod Racers,2.0
+Six Flags Magic Mountain,Gold Rusher,8.0
+Six Flags Magic Mountain,Twisted Colossus,37.0
+Six Flags Magic Mountain,Wonder Woman Flight of Courage,32.0
+Six Flags Magic Mountain,Riddler's Revenge,18.0
+Six Flags Magic Mountain,Batman The Ride,15.0
+Six Flags Magic Mountain,Apocalypse the Ride,27.0
+Six Flags Magic Mountain,Goliath,30.0
+Six Flags Magic Mountain,Road Runner Express,2.0
+Six Flags Magic Mountain,Full Throttle,35.0
+Six Flags Magic Mountain,Scream!,14.0
+Six Flags Magic Mountain,West Coast Racers,41.0
+Six Flags Magic Mountain,Canyon Blaster,2.0
+Six Flags Magic Mountain,X2,44.0
+Six Flags Magic Mountain,New Revolution,25.0
+Six Flags Magic Mountain,Tatsu,38.0
+Six Flags Magic Mountain,Ninja,19.0
+Six Flags Great Adventure & Safari,Runaway Mine Train,7.0
+Six Flags Great Adventure & Safari,Jersey Devil Coaster,17.0
+Six Flags Great Adventure & Safari,Lil' Devil Coaster,0.0
+Six Flags Great Adventure & Safari,Medusa,9.0
+Six Flags Great Adventure & Safari,Flash: Vertical Velocity,0.0
+Six Flags Great Adventure & Safari,El Toro,14.0
+Six Flags Great Adventure & Safari,Batman The Ride,14.0
+Six Flags Great Adventure & Safari,Superman - Ultimate Flight,26.0
+Six Flags Great Adventure & Safari,Nitro,20.0
+Six Flags Great Adventure & Safari,Harley Quinn Crazy Train,8.0
+Six Flags Great Adventure & Safari,Skull Mountain,11.0
+Six Flags Great Adventure & Safari,Dark Knight,12.0
+Six Flags Great Adventure & Safari,Joker,21.0
+Six Flags Great America,Viper,17.0
+Six Flags Great America,X-Flight,34.0
+Six Flags Great America,Raging Bull,33.0
+Six Flags Great America,Wrath of Rakshasa,41.0
+Six Flags Great America,American Eagle,19.0
+Six Flags Great America,Flash: Vertical Velocity,21.0
+Six Flags Great America,Superman - Ultimate Flight,42.0
+Six Flags Great America,Dark Knight,30.0
+Six Flags Great America,Maxx Force,44.0
+Six Flags Great America,Whizzer,26.0
+Six Flags Great America,Goliath,38.0
+Six Flags Great America,Batman The Ride,25.0
+Six Flags Great America,Demon,12.0
+Six Flags Great America,Sprocket Rockets,0.0
+Six Flags Great America,Little Dipper,0.0
+Six Flags Great America,Joker,29.0
+Six Flags Over Texas,New Texas Giant,30.0
+Six Flags Over Texas,Shock Wave,11.0
+Six Flags Over Texas,Runaway Mountain,19.0
+Six Flags Over Texas,Runaway Mine Train,11.0
+Six Flags Over Texas,Wile E. Coyote's Grand Canyon Blaster,4.0
+Six Flags Over Texas,Joker,18.0
+Six Flags Over Texas,Batman The Ride,20.0
+Six Flags Over Texas,Judge Roy Scream,7.0
+Six Flags Over Texas,Aquaman: Power Wave,17.0
+Six Flags Over Texas,Pandemonium,26.0
+Six Flags Over Texas,Titan,16.0
+Six Flags Over Texas,Mini Mine Train,6.0
+Six Flags Over Texas,Mr. Freeze,25.0
+Six Flags Fiesta Texas,Iron Rattler,30.0
+Six Flags Fiesta Texas,Wonder Woman Golden Lasso Coaster,28.0
+Six Flags Fiesta Texas,Road Runner Express,18.0
+Six Flags Fiesta Texas,Superman Krypton Coaster,16.0
+Six Flags Fiesta Texas,Pandemonium,14.0
+Six Flags Fiesta Texas,Batgirl Coaster Chase,1.0
+Six Flags Fiesta Texas,Boomerang Coast to Coaster,23.0
+Six Flags Fiesta Texas,Batman The Ride,15.0
+Six Flags Fiesta Texas,Dr. Diabolical's Cliffhanger,6.0
+Six Flags Fiesta Texas,Poltergeist,19.0
+Six Flags Fiesta Texas,Chupacabra,13.0
+Six Flags Over Georgia,Twisted Cyclone,17.0
+Six Flags Over Georgia,Great American Scream Machine,12.0
+Six Flags Over Georgia,Batman The Ride,17.0
+Six Flags Over Georgia,Dare Devil Dive,25.0
+Six Flags Over Georgia,Georgia Scorcher,13.0
+Six Flags Over Georgia,Blue Hawk,9.0
+Six Flags Over Georgia,Riddler Mindbender,11.0
+Six Flags Over Georgia,Georgia Gold Rusher,13.0
+Six Flags Over Georgia,Superman - Ultimate Flight,19.0
+Six Flags Over Georgia,Joker Funhouse Coaster,5.0
+Six Flags Over Georgia,Dahlonega Mine Train,8.0
+Six Flags Over Georgia,Goliath,17.0
+Six Flags New England,Batman - The Dark Knight,18.0
+Six Flags New England,Thunderbolt,22.0
+Six Flags New England,Flashback,7.0
+Six Flags New England,Superman the Ride,21.0
+Six Flags New England,Great Chase,4.0
+Six Flags New England,Catwoman's Whip,6.0
+Six Flags New England,Gotham City Gauntlet Escape from Arkham Asylum,14.0
+Six Flags New England,Wicked Cyclone,17.0
+Six Flags New England,Joker,15.0
+Six Flags New England,Riddler Revenge,23.0
+Six Flags New England,Pandemonium,25.0
+Six Flags Discovery Kingdom,Batman The Ride,30.0
+Six Flags Discovery Kingdom,Medusa,26.0
+Six Flags Discovery Kingdom,Roadrunner Express,7.0
+Six Flags Discovery Kingdom,Boomerang,17.0
+Six Flags Discovery Kingdom,Kong,18.0
+Six Flags Discovery Kingdom,Superman Ultimate Flight,27.0
+Six Flags Discovery Kingdom,Sidewinder Safari,33.0
+Six Flags Discovery Kingdom,Flash: Vertical Velocity,13.0
+Six Flags Discovery Kingdom,Cobra,8.0
+Six Flags Discovery Kingdom,Joker,40.0
+Six Flags St. Louis,Boomerang,11.0
+Six Flags St. Louis,Boss,14.0
+Six Flags St. Louis,River King Mine Train,9.0
+Six Flags St. Louis,Mr. Freeze Reverse Blast,16.0
+Six Flags St. Louis,Rookie Racer,9.0
+Six Flags St. Louis,Ninja,6.0
+Six Flags St. Louis,American Thunder,10.0
+Six Flags St. Louis,Batman The Ride,15.0
+Six Flags St. Louis,Screamin' Eagle,11.0
+Six Flags St. Louis,Pandemonium,14.0
+Six Flags Darien Lake,Ride of Steel,11.0
+Six Flags Darien Lake,Viper,8.0
+Six Flags Darien Lake,Moto Coaster,7.0
+Six Flags Darien Lake,Boomerang,1.0
+Six Flags Darien Lake,Tantrum,10.0
+Six Flags Darien Lake,Predator,6.0
+Six Flags Darien Lake,Mind Eraser,7.0
+Six Flags Darien Lake,Hoot N Holler,0.0
+Six Flags Great Escape,Canyon Blaster,11.0
+Six Flags Great Escape,Steamin' Demon,2.0
+Six Flags Great Escape,Bobcat,0.0
+Six Flags Great Escape,Frankie's Mine Train,2.0
+Six Flags Great Escape,Flashback,7.0
+Six Flags Great Escape,Comet,5.0
+La Ronde,Dragon,26.0
+La Ronde,Vampire,11.0
+La Ronde,Toboggan Nordique,39.0
+La Ronde,Monstre,35.0
+La Ronde,Boomerang,13.0
+La Ronde,Ednör - L'Attaque,0.0
+La Ronde,Marche du Mille-pattes,21.0
+La Ronde,Goliath,17.0
+Frontier City,Silver Bullet,19.0
+Frontier City,Wildcat,14.0
+Frontier City,Steel Lasso,13.0
+Frontier City,Diamondback,9.0
+Frontier City,Frankie's Mine Train,4.0
+Six Flags Mexico,Superman Krypton Coaster,11.0
+Six Flags Mexico,Batman The Ride,27.0
+Six Flags Mexico,Batgirl Batarang,35.0
+Six Flags Mexico,Speedway Stunt Coaster,14.0
+Six Flags Mexico,Superman el Último Escape,29.0
+Six Flags Mexico,Dark Knight,11.0
+Six Flags Mexico,Wonder Woman,7.0
+Six Flags Mexico,Medusa Steel Coaster,34.0
+Six Flags Mexico,Tsunami,9.0
+Six Flags Mexico,Joker,7.0
+Six Flags Qiddiya City,Twilight Express,-1.0
+Six Flags Qiddiya City,Colossus,-1.0
+Six Flags Qiddiya City,Iron Rattler,-1.0
+Six Flags Qiddiya City,Adrena-Line,-1.0
+Six Flags Qiddiya City,Falcons Flight,-1.0
+Six Flags Qiddiya City,Sea Stallion,-1.0
+Six Flags Qiddiya City,Saw Mill Falls,-1.0
+Six Flags Qiddiya City,Spitfire,-1.0
+Legoland California,Dragon,10.0
+Legoland California,Technic Coaster,22.0
+Legoland California,Coastersaurus,33.0
+Legoland Florida,Great Lego Race,15.0
+Legoland Florida,Coastersaurus,13.0
+Legoland Florida,Dragon,12.0
+Legoland New York,Dragon's Apprentice,6.0
+Legoland New York,Dragon,15.0
+Legoland Billund,Flying Eagle,21.0
+Legoland Billund,Dragen,-1.0
+Legoland Billund,Polar X-plorer,13.0
+Legoland Billund,X-treme Racers,-1.0
+Legoland Deutschland,Maximus - Der Flug des Wächters,-1.0
+Legoland Deutschland,Das Große LEGO Rennen,-1.0
+Legoland Deutschland,Drachenjagd,-1.0
+Legoland Deutschland,Feuerdrache,-1.0
+Legoland Dubai,Dragon's Apprentice,-1.0
+Legoland Dubai,Dragon,-1.0
+Legoland Japan,Dragon's Apprentice / ドラゴン・アプレンティス,16.0
+Legoland Japan,Dragon / ザ・ドラゴン,10.0
+Legoland Malaysia,Great Lego Race,-1.0
+Legoland Malaysia,Dragon's Apprentice,-1.0
+Legoland Malaysia,Dragon,-1.0
+Legoland Korea,Dragon,-1.0
+Legoland Korea,Masters of Spinjitzu / 스핀짓주 마스터,-1.0
+Legoland Shanghai,Big LEGO Coaster / 乐高大飞车,-1.0
+Legoland Shanghai,Dragon / 飞龙过山车,-1.0
+Legoland Shanghai,Dragon's Apprentice / 小龙飞车,-1.0
+Legoland Windsor,Minifigure Speedway,-1.0
+Legoland Windsor,Dragon's Apprentice,-1.0
+Legoland Windsor,DUPLO Dino Coaster,-1.0
+Legoland Windsor,Dragon,-1.0
+Alton Towers,Nemesis Reborn,33.0
+Alton Towers,Wicker Man,46.0
+Alton Towers,Oblivion,24.0
+Alton Towers,Smiler,51.0
+Alton Towers,Rita,38.0
+Alton Towers,Spinball Whizzer,30.0
+Alton Towers,Runaway Mine Train,20.0
+Alton Towers,Galactica,31.0
+Alton Towers,Th13teen,41.0
+Alton Towers,Octonauts Rollercoaster Adventure,22.0
+Chessington World of Adventures,Dragon's Fury,49.0
+Chessington World of Adventures,Vampire,44.0
+Chessington World of Adventures,Rattlesnake,33.0
+Chessington World of Adventures,Mandrill Mayhem,0.0
+Heide Park Resort,Big Loop,12.0
+Heide Park Resort,Krake,19.0
+Heide Park Resort,Grottenblitz,6.0
+Heide Park Resort,Toxic Garden,17.0
+Heide Park Resort,Desert Race,13.0
+Heide Park Resort,Colossos - Kampf der Giganten,25.0
+Heide Park Resort,Indy-Blitz,6.0
+Heide Park Resort,Bobbahn,20.0
+Heide Park Resort,Flug der Dämonen,21.0
+Gardaland,Oblivion - The Black Hole,16.0
+Gardaland,Mammut,26.0
+Gardaland,Ortobruco Tour,8.0
+Gardaland,Blue Tornado,19.0
+Gardaland,Shaman,12.0
+Gardaland,Raptor,18.0
+Gardaland,Dragon Rush,5.0
+Thorpe Park,Flying Fish,11.0
+Thorpe Park,Stealth,35.0
+Thorpe Park,Swarm,35.0
+Thorpe Park,Colossus,39.0
+Thorpe Park,Nemesis Inferno,40.0
+Thorpe Park,Hyperia,66.0
+Thorpe Park,Saw - The Ride,47.0
+Thorpe Park,Walking Dead - The Ride,20.0
+Magic Kingdom,TRON Lightcycle / Run,78.0
+Magic Kingdom,Seven Dwarfs Mine Train,63.0
+Magic Kingdom,Barnstormer,17.0
+Magic Kingdom,Space Mountain,43.0
+EPCOT,Guardians of the Galaxy: Cosmic Rewind,87.0
+Hollywood Studios,Rock 'n' Roller Coaster,54.0
+Hollywood Studios,Slinky Dog Dash,74.0
+Animal Kingdom,Expedition Everest,29.0
+Disneyland,Space Mountain,48.0
+Disneyland,Big Thunder Mountain Railroad,33.0
+Disneyland,Matterhorn Bobsleds,40.0
+Disneyland,Chip & Dale’s Gadget Coaster,23.0
+Disney California Adventure,Incredicoaster,32.0
+Disney California Adventure,Goofy's Sky School,31.0
+Disneyland Paris,Star Wars Hyperspace Mountain: Rebel Mission,26.0
+Disneyland Paris,Indiana Jones et le Temple du Péril,17.0
+Disneyland Paris,"Casey Jr., Le Petit Train du Cirque",15.0
+Disneyland Paris,Big Thunder Mountain,37.0
+Disneyland Paris - Walt Disney Studios Park,Avengers Assemble: Flight Force,16.0
+Disneyland Paris - Walt Disney Studios Park,RC Racer,32.0
+Disneyland Paris - Walt Disney Studios Park,Crush's Coaster,66.0
+Tokyo Disneyland,Big Thunder Mountain / ビッグサンダー・マウンテン,33.0
+Tokyo Disneyland,Gadget's Go Coaster / ガジェットのゴーコースター,11.0
+Tokyo DisneySea,Flounder's Flying Fish Coaster / フランダーのフライングフィッシュコースター,15.0
+Tokyo DisneySea,Raging Spirits / レイジングスピリッツ,39.0
+Shanghai Disneyland,TRON Lightcycle Power Run / 创极速光轮,37.0
+Shanghai Disneyland,Rex's Racer / 抱抱龙冲天赛车,39.0
+Shanghai Disneyland,Seven Dwarfs Mine Train / 七个小矮人矿山车,54.0
+Hong Kong Disneyland,Hyperspace Mountain / 星战极速穿梭,15.0
+Hong Kong Disneyland,Big Grizzly Mountain Runaway Mine Cars / 灰熊山極速礦車,27.0
+Hong Kong Disneyland,Wandering Oaken’s Sliding Sleighs,33.0
+Hong Kong Disneyland,RC / 冲天遥控车,27.0
+Universal Studios Florida,Harry Potter and the Escape from Gringotts,44.0
+Universal Studios Florida,Revenge of the Mummy,31.0
+Universal Studios Florida,Trolls Trollercoaster,16.0
+Islands of Adventure,Hagrid's Magical Creatures Motorbike Adventure,103.0
+Islands of Adventure,VelociCoaster,52.0
+Islands of Adventure,Flight of the Hippogriff,33.0
+Islands of Adventure,Incredible Hulk,31.0
+Islands of Adventure,Pteranodon Flyers,33.0
+Epic Universe,Curse of the Werewolf,48.0
+Epic Universe,Hiccup's Wing Gliders,53.0
+Epic Universe,Mine-Cart Madness,105.0
+Epic Universe,Stardust Racers,37.0
+Universal Studios Hollywood,Revenge of the Mummy the Ride,29.0
+Universal Studios Hollywood,Flight of the Hippogriff,19.0
+Universal Studios Singapore,Enchanted Airways,5.0
+Universal Studios Singapore,Revenge of the Mummy,8.0
+Universal Studios Singapore,Battlestar Galactica,17.0
+Universal Studios Singapore,Puss In Boots’ Giant Journey,11.0
+Universal Studios Singapore,Canopy Flyer,12.0
+Universal Studios Japan,Hollywood Dream: The Ride / ハリウッド・ドリーム・ザ・ライド,67.0
+Universal Studios Japan,Space Fantasy - The Ride: Club Zedd Remix,42.0
+Universal Studios Japan,Mine Cart Madness / ドンキーコングのクレイジー・トロッコ,142.0
+Universal Studios Japan,Flight of the Hippogriff / フライト・オブ・ザ・ヒッポグリフ,72.0
+Universal Studios Japan,Snoopy's Flying Ace Adventure / スヌーピーのフライング・エース・アドベンチャー,46.0
+Universal Studios Japan,Flying Dinosaur / ザ・フライング・ダイナソー,56.0
+Universal Studios Beijing,Flight of the Hippogriff / 鹰马飞行,37.0
+Universal Studios Beijing,Jurassic Flyers / 飞越侏罗纪,50.0
+Universal Studios Beijing,Loop-Dee-Doop-Dee / 萌转过山车,31.0
+Universal Studios Beijing,Decepticoaster / 霸天虎过山车,24.0
+Busch Gardens Tampa,Iron Gwazi,21.0
+Busch Gardens Tampa,Montu,17.0
+Busch Gardens Tampa,SheiKra,13.0
+Busch Gardens Tampa,Cheetah Hunt,43.0
+Busch Gardens Tampa,Cobra's Curse,35.0
+Busch Gardens Tampa,Air Grover,3.0
+Busch Gardens Tampa,Tigris,12.0
+Busch Gardens Tampa,Phoenix Rising,12.0
+Busch Gardens Tampa,Kumba,9.0
+Busch Gardens Williamsburg,Pantheon,1.0
+Busch Gardens Williamsburg,Griffon,7.0
+Busch Gardens Williamsburg,Verbolten,11.0
+Busch Gardens Williamsburg,Loch Ness Monster,9.0
+Busch Gardens Williamsburg,Apollo's Chariot,5.0
+Busch Gardens Williamsburg,Tempesto,6.0
+Busch Gardens Williamsburg,Alpengeist,5.0
+Busch Gardens Williamsburg,InvadR,6.0
+Busch Gardens Williamsburg,Big Bad Wolf: The Wolf’s Revenge,27.0
+Busch Gardens Williamsburg,DarKoaster,15.0
+Busch Gardens Williamsburg,Grover's Alpine Express,0.0
+SeaWorld Orlando,Kraken,7.0
+SeaWorld Orlando,Penguin Trek,25.0
+SeaWorld Orlando,Super Grover's Box Car Derby,6.0
+SeaWorld Orlando,Mako,10.0
+SeaWorld Orlando,Manta,14.0
+SeaWorld Orlando,Journey to Atlantis,14.0
+SeaWorld Orlando,Pipeline: The Surf Coaster,22.0
+SeaWorld Orlando,Ice Breaker,14.0
+SeaWorld San Antonio,Wave Breaker: The Rescue Coaster,11.0
+SeaWorld San Antonio,Texas Stingray,4.0
+SeaWorld San Antonio,Beach Rescue Racer,3.0
+SeaWorld San Antonio,Journey to Atlantis,8.0
+SeaWorld San Antonio,Steel Eel,4.0
+SeaWorld San Antonio,Great White,4.0
+SeaWorld San Diego,Arctic Rescue,14.0
+SeaWorld San Diego,Electric Eel,14.0
+SeaWorld San Diego,Journey to Atlantis,17.0
+SeaWorld San Diego,Emperor,10.0
+SeaWorld San Diego,Manta,17.0
+Adventureland,Underground,23.0
+Adventureland,Dragon Slayer,10.0
+Adventureland,Flying Viking,12.0
+Adventureland,Monster,23.0
+Adventureland,Outlaw,7.0
+Adventureland,Phoenix,11.0
+Adventureland,Tornado,0.0
+Dollywood,Whistle Punk Chaser,7.0
+Dollywood,FireChaser Express,25.0
+Dollywood,Blazing Fury,10.0
+Dollywood,Tennessee Tornado,10.0
+Dollywood,Wild Eagle,10.0
+Dollywood,Dragonflier,22.0
+Dollywood,Big Bear Mountain,23.0
+Dollywood,Lightning Rod,28.0
+Dollywood,Mystery Mine,19.0
+Dollywood,Thunderhead,12.0
+Kennywood,Phantom's Revenge,18.0
+Kennywood,Steel Curtain,24.0
+Kennywood,Lil' Phantom,0.0
+Kennywood,Racer,15.0
+Kennywood,Jack Rabbit,16.0
+Kennywood,Exterminator,33.0
+Kennywood,Sky Rocket,13.0
+Kennywood,Thunderbolt,11.0
+Kentucky Kingdom,Lightning Run,-1.0
+Kentucky Kingdom,Woodland Run,-1.0
+Kentucky Kingdom,Hollyhock and Roll,-1.0
+Kentucky Kingdom,Kentucky Flyer,-1.0
+Kentucky Kingdom,Wind Chaser,-1.0
+Lake Compounce,Zoomerang,9.0
+Lake Compounce,Phobia Phear Coaster,9.0
+Lake Compounce,Boulder Dash,16.0
+Lake Compounce,Kiddie Coaster,0.0
+Lake Compounce,Wildcat,18.0
+Silver Dollar City,Grand Exposition Coaster,10.0
+Silver Dollar City,Outlaw Run,8.0
+Silver Dollar City,Fire In The Hole,13.0
+Silver Dollar City,Powder Keg: A Blast in the Wilderness,27.0
+Silver Dollar City,Thunderation,9.0
+Silver Dollar City,Time Traveler,25.0
+Silver Dollar City,Wildfire,7.0
+Bobbejaanland,Bob Express,-1.0
+Bobbejaanland,Oki Doki,-1.0
+Bobbejaanland,Naga Bay,-1.0
+Bobbejaanland,Revolution,-1.0
+Bobbejaanland,Dreamcatcher,-1.0
+Bobbejaanland,Speedy Bob,-1.0
+Bobbejaanland,Typhoon,-1.0
+Bobbejaanland,Fury,-1.0
+MoviePark Germany,Ghost Chasers,-1.0
+MoviePark Germany,Van Helsing's Factory,-1.0
+MoviePark Germany,Bandit,-1.0
+MoviePark Germany,Jimmy Neutron's Atomic Flyer,-1.0
+MoviePark Germany,Star Trek: Operation Enterprise,-1.0
+MoviePark Germany,Studio Tour,-1.0
+MoviePark Germany,Backyardigans: Mission to Mars,-1.0
+MoviePark Germany,Iron Claw,-1.0
+Mirabilandia,Rexplorer,-1.0
+Mirabilandia,Desmo Race,-1.0
+Mirabilandia,Cowabunga Carts,-1.0
+Mirabilandia,Gold Digger,-1.0
+Mirabilandia,PAW Patrol To The Rescue,-1.0
+Mirabilandia,Master Thai,-1.0
+Mirabilandia,Divertical,-1.0
+Mirabilandia,iSpeed,-1.0
+Mirabilandia,Katun,-1.0
+Parque de Atracciones,Tarántula,9.0
+Parque de Atracciones,Paw Patrol: Patrulla Canina,0.0
+Parque de Atracciones,Abismo,12.0
+Parque de Atracciones,TNT Tren de la Mina,10.0
+Parque de Atracciones,Tornado,3.0
+Parque de Atracciones,Padrinos Voladores,0.0
+Parque Warner Madrid,Shadows of Arkham,-1.0
+Parque Warner Madrid,Superman / la Atracción de Acero,11.0
+Parque Warner Madrid,Coaster Express,11.0
+Parque Warner Madrid,Stunt Fall,4.0
+Parque Warner Madrid,Batman Gotham City Escape,13.0
+Parque Warner Madrid,Tom y Jerry,9.0
+Parque Warner Madrid,"Correcaminos Bip, Bip",-1.0
+TusenFryd,HuriHuri,-1.0
+TusenFryd,SuperSplash,-1.0
+TusenFryd,Storm - The Dragon Legend,-1.0
+TusenFryd,Western-Expressen,-1.0
+TusenFryd,Thundercoaster,-1.0
+TusenFryd,Loopen,-1.0
+TusenFryd,Speed Monster,-1.0
+Walibi Belgium,Kondaa,21.0
+Walibi Belgium,Vampire,19.0
+Walibi Belgium,Calamity Mine,13.0
+Walibi Belgium,Turbine,12.0
+Walibi Belgium,Cobra,13.0
+Walibi Belgium,Mecalodon,20.0
+Walibi Belgium,Pulsar,16.0
+Walibi Belgium,Fun Pilot,8.0
+Walibi Belgium,Loup-Garou,23.0
+Walibi Belgium,Tiki-Waka,30.0
+Walibi Holland,YoY,20.0
+Walibi Holland,Eat My Dust,6.0
+Walibi Holland,Xpress: Platform 13,21.0
+Walibi Holland,Untamed,27.0
+Walibi Holland,Drako,6.0
+Walibi Holland,Lost Gravity,25.0
+Walibi Holland,Condor,20.0
+Walibi Holland,Goliath,19.0
+Walibi Holland,Speed of Sound,17.0
+Walibi Rhône-Alpes,Woodstock Express,27.0
+Walibi Rhône-Alpes,Mystic,23.0
+Walibi Rhône-Alpes,Timber,23.0
+Walibi Rhône-Alpes,Generator,17.0
+Walibi Rhône-Alpes,Mahuka,-1.0
+Walibi Rhône-Alpes,Coccinelle,-1.0
+Efteling,Vliegende Hollander,28.0
+Efteling,Python,18.0
+Efteling,Baron 1898,25.0
+Efteling,Joris en de Draak,27.0
+Efteling,Vogel Rok,13.0
+Efteling,Max + Moritz,12.0
+Nagashima Spa Land,Looping Star / ルーピングスター,-1.0
+Nagashima Spa Land,Corkscrew / コークスクリュー,-1.0
+Nagashima Spa Land,Wild Mouse / ワイルドマウス,-1.0
+Nagashima Spa Land,Acrobat / アクロバット,-1.0
+Nagashima Spa Land,Hakugei / 白鯨,-1.0
+Nagashima Spa Land,Ultra Twister / ウルトラツイスター,-1.0
+Nagashima Spa Land,Arashi / 嵐,-1.0
+Nagashima Spa Land,Steel Dragon 2000 / スチールドラゴン2000,-1.0
+Nagashima Spa Land,Shuttle Loop / シャトルループ,-1.0
+Nagashima Spa Land,Peter Rabbit Coaster / ピーターラビットコースター,-1.0
+Nagashima Spa Land,Children Coaster / チルドレンコースター,-1.0
+Nagashima Spa Land,Jet Coaster / ジェットコースター,-1.0
+Nagashima Spa Land,Wild Mouse / ワイルドマウス,-1.0
+Europa Park,Arthur,25.0
+Europa Park,blue fire Megacoaster,20.0
+Europa Park,Alpenexpress Enzian,15.0
+Europa Park,Voltron,33.0
+Europa Park,Schweizer Bobbahn,19.0
+Europa Park,Eurosat - CanCan Coaster,26.0
+Europa Park,Euro Mir,15.0
+Europa Park,Poseidon,10.0
+Europa Park,Silver Star,20.0
+Europa Park,Atlantica SuperSplash,11.0
+Europa Park,Pegasus,1.0
+Europa Park,Matterhorn Blitz,15.0
+Europa Park,Wodan Timbur Coaster,25.0
+Europa Park,Ba-a-a-Express,6.0
+Port Adventura,Tami-Tami,8.0
+Port Adventura,Uncharted: The Enigma of Penitence,1.0
+Port Adventura,Shambhala,25.0
+Port Adventura,Diablo - Tren de la Mina,0.0
+Port Adventura,Tomahawk,14.0
+Port Adventura,Furius Baco,29.0
+Port Adventura,Stampida,39.0
+Port Adventura,Dragon Khan,19.0
+Ferrari Land,Junior Red Force,3.0
+Ferrari Land,Red Force,24.0
+Phantasialand,Winjas,13.0
+Phantasialand,Taron,22.0
+Phantasialand,Black Mamba,14.0
+Phantasialand,Colorado Adventure,10.0
+Phantasialand,Crazy Bats,15.0
+Phantasialand,F.L.Y.,18.0
+Phantasialand,Raik,11.0
+Nickelodeon Universe,Sandy’s Blasting Bronco,-1.0
+Nickelodeon Universe,TMNT Shellraiser,-1.0
+Nickelodeon Universe,Nickelodeon Slime Streak,-1.0
+Nickelodeon Universe,Shredder,-1.0
+Nickelodeon Universe,Timmy's Half-Pipe Havoc,-1.0
+Fuji-Q Highland,Zokkon / ぞっこん,19.0
+Fuji-Q Highland,Eejanaika / ええじゃないか,19.0
+Fuji-Q Highland,Nia and Animal Coaster / ニアとアニマルコースター,-1.0
+Fuji-Q Highland,Voyage Dans Le Ciel / リサとガスパールのそらたびにっき,0.0
+Fuji-Q Highland,Fujiyama / フジヤマ,19.0
+Fuji-Q Highland,Takabisha / 高飛車,19.0
+Energylandia,Happy Loops,-1.0
+Energylandia,Circus Coaster,-1.0
+Energylandia,Draken,-1.0
+Energylandia,Viking Roller Coaster,-1.0
+Energylandia,Formuła,-1.0
+Energylandia,Zadra,2.0
+Energylandia,Frida,-1.0
+Energylandia,Dragon Roller Coaster,-1.0
+Energylandia,Speed,-1.0
+Energylandia,Hyperion,2.0
+Energylandia,Honey Harbour,-1.0
+Energylandia,Energuś,-1.0
+Energylandia,Light Explorers,-1.0
+Energylandia,Boomerang,-1.0
+Energylandia,Choco Chip Creek,-1.0
+Energylandia,Frutti Loop Coaster,-1.0
+Energylandia,Roller Coaster Mayan,-1.0
+Energylandia,Abyssus,-1.0
+Energylandia,Mars,-1.0
+Liseberg,Helix,16.0
+Liseberg,Stampbanan,9.0
+Liseberg,Lisebergbanan,9.0
+Liseberg,Luna,15.0
+Liseberg,Balder,14.0
+Liseberg,Rabalder,10.0
+Liseberg,Valkyria,14.0
+Hersheypark,Cocoa Cruiser,18.0
+Hersheypark,Candymonium,47.0
+Hersheypark,Jolly Rancher Remix,32.0
+Hersheypark,Skyrush,29.0
+Hersheypark,Trailblazer,15.0
+Hersheypark,Fahrenheit,44.0
+Hersheypark,Laff Trakk,45.0
+Hersheypark,Storm Runner,31.0
+Hersheypark,Sooperdooperlooper,28.0
+Hersheypark,Lightning Racer,14.0
+Hersheypark,Wildcat's Revenge,33.0
+Hersheypark,Great Bear,37.0
+Hersheypark,Comet,36.0
+Hersheypark,Wild Mouse,15.0
+Holiday World,Howler,-1.0
+Holiday World,Legend,-1.0
+Holiday World,Thunderbird,-1.0
+Holiday World,Good Gravy!,-1.0
+Holiday World,Voyage,-1.0
+Holiday World,Raven,-1.0
+Knoebels,Kozmo's Kurves,12.0
+Knoebels,Twister,12.0
+Knoebels,Impulse,17.0
+Knoebels,Black Diamond,10.0
+Knoebels,Flying Turns,27.0
+Knoebels,Phoenix,14.0
+Pleasure Beach Blackpool,Blue Flyer,6.0
+Pleasure Beach Blackpool,Big Dipper,20.0
+Pleasure Beach Blackpool,Grand National,13.0
+Pleasure Beach Blackpool,Steeplechase,15.0
+Pleasure Beach Blackpool,Revolution,12.0
+Pleasure Beach Blackpool,Big One,27.0
+Pleasure Beach Blackpool,Icon,22.0
+Pleasure Beach Blackpool,Nickelodeon Streak,17.0
+Pleasure Beach Blackpool,Avalanche,20.0
+Pleasure Beach Blackpool,Infusion,16.0
+Warner Bros. World Abu Dhabi,Tom and Jerry Swiss Cheese Spin,-1.0
+Warner Bros. World Abu Dhabi,Fast and Furry-ous,-1.0
+Linnanmäki,Tulireki,-1.0
+Linnanmäki,Kirnu,-1.0
+Linnanmäki,Ukko,-1.0
+Linnanmäki,Pikajuna,-1.0
+Linnanmäki,Salama,-1.0
+Linnanmäki,Taiga,-1.0
+Linnanmäki,Linnunrata eXtra,-1.0
+Linnanmäki,Vuoristorata,-1.0
+Ferrari World Abu Dhabi,Formula Rossa,-1.0
+Ferrari World Abu Dhabi,Formula Rossa Junior,-1.0
+Ferrari World Abu Dhabi,Flying Aces,-1.0
+Ferrari World Abu Dhabi,Mission Ferrari,-1.0
+Ferrari World Abu Dhabi,Fiorano GT Challenge,-1.0
+Ferrari World Abu Dhabi,Turbo Track,-1.0
+Gröna Lund,Nyckelpigan,19.0
+Gröna Lund,Insane,17.0
+Gröna Lund,Tuff-Tuff Tåget,13.0
+Gröna Lund,Twister,20.0
+Gröna Lund,Monster,16.0
+Gröna Lund,Kvasten,22.0
+Hansa Park,Crazy Mine,-1.0
+Hansa Park,Royal Scotsman,-1.0
+Hansa Park,Nessie,-1.0
+Hansa Park,Schwur des Kärnan,-1.0
+Hansa Park,Kleine Zar,-1.0
+Hansa Park,Flucht von Novgorod,-1.0
+Hansa Park,Schlange von Midgard,-1.0
